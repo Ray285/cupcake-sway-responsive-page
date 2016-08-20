@@ -1,6 +1,11 @@
+
+article, section, aside, hgroup, nav, header, footer, figure, figcaption {
+  display: block;
+}
+
 body {
     font-family: 'Lato', sans-serif;
-    color: #747704;
+    color: #6f8594;
     font-weight: 300;
 }
 
@@ -17,5 +22,11 @@ body {
 }
 
 .title-logo {
-    margin: 20px 0px 0px 0px;
+    padding: 20px 0px 0px 20px;
+}
+
+.footer {
+    text-align: center;
+    background-color: #f2f2f2;
+    padding: 10px;
 }

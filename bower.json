@@ -1,0 +1,26 @@
+{
+  "name": "portfolio-project",
+  "description": "Udacity FEND - Portfolio Project",
+  "main": "index.html",
+  "authors": [
+    "Raymond Lemon <Rlemon285@gmail.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "udacity",
+    "responsive",
+    "bootstrap"
+  ],
+  "homepage": "https://github.com/Ray285/Ray285.github.io",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "lazysizes": "^2.0.1"
+  }
+}
